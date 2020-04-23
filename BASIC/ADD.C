@@ -1,0 +1,1 @@
+#include<stdio.h>#include<conio.h>void main(){int a,b,c;clrscr();printf("entre the first digit to add :  ");scanf("%d",&a);printf("entre the second number: ");scanf("%d",&b);c=a+b;printf("the value is :  %d  ");scanf("%d",&c);getch();}
